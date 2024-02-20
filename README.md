@@ -1,4 +1,4 @@
-Title: AppDelegate Template  
+Title: Swift Empty File Template  
 分類: [Xcode][L2]  
 Discussion: [Link][L3]  
 
@@ -20,4 +20,4 @@ Discussion: [Link][L3]
 
 [L1]: https://github.com/shinrenpan/Swift-Empty-Template/releases/latest/
 [L2]: https://github.com/shinrenpan/Note/discussions?discussions_q=is%3Aopen+label%3AXcode
-[L3]: https://github.com/shinrenpan/Note/discussions/24
+[L3]: https://github.com/shinrenpan/Note/discussions/25
