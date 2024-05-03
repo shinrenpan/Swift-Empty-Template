@@ -1,7 +1,3 @@
-Title: Swift Empty File Template  
-Labels: [Xcode][L2]  
-Discussion: [Link][L3]  
-
 ## 前言
 
 創建一個 Xcode Template 用來產出僅 import UIKit 的檔案.
